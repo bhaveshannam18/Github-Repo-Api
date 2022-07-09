@@ -1,0 +1,22 @@
+.input_holder{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+div h1{
+    color: aqua;
+}
+
+#container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.repo{
+    width: 100%;
+    margin: 10px 20px;
+    padding: 5px;
+    background-color: yellow;
+}
+
